@@ -112,7 +112,7 @@ p strong {
     margin-bottom: 5px;
 }
 .page-section article ul li a {
-    color: #a4b0be;
+    color: #f6c80e;
     font-size: .8rem;
 }
 
@@ -126,7 +126,7 @@ p strong {
 
 /* CARD */
 .card {
-    background-color: #414345;
+    background-color: #f6c80e;
     padding: 20px;
     box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
     border-radius: 5px;
